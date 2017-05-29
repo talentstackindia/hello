@@ -136,7 +136,7 @@ a:not([href]):not([tabindex]):hover {
   margin: auto;
   width: 70px;
   position: relative;
-  border-top: 2px solid #346afe;
+  border-top: 2px solid #ff9800;
   margin-top: 15px;
 }
 .section-header .lines:before {
@@ -492,7 +492,7 @@ a:not([href]):not([tabindex]):hover {
   content: "";
   height: 30%;
   width: 30%;
-  background: #346afe;
+  background: #ff9800;
   opacity: 0;
   -webkit-transition: all 0.5s ease-in-out;
   transition: all 0.5s ease-in-out;
