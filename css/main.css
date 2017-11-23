@@ -1220,6 +1220,9 @@ footer {
     -webkit-filter: brightness(54%);
 
 }*/
+.bgimg{
+  height:80vh;
+}
 
 .scroll-downs {
   position: absolute;
