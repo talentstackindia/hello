@@ -1259,10 +1259,16 @@ footer {
   10% { transform: translateY(0); opacity: 1; }
   100% { transform: translateY(15px); opacity: 0;}
 }
+.logo_img a img{
+  height:140px;
+}
 @media screen and (max-width: 640px) {
    .scroll-downs {
   top: 85vh;
   }
+  .logo_img a img{
+  height:100px;
+}
 }
 
 
